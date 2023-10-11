@@ -1,3 +1,11 @@
+#### Name: [SIPHO CHAKHALA](https://github.com/Siphocha)
+
+- Place: Africa (Nonspecifying)
+- Bio: Filled with Africanacity! Software Engineering student too.
+- Interests: Web3, CybSec, Web development, Mobile Development, Chess, Futurism
+- Github: [Siphocha](https://github.com/Siphocha)
+
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines

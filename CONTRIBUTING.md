@@ -2,7 +2,7 @@
 
 - Place: Africa (Nonspecifying)
 - Bio: Filled with Africanacity! Software Engineering student too.
-- Interests: Web3, CybSec, Web development, Mobile Development, Chess, Futurism
+- Interests: Web3, CybSec, Web development, Mobile Development, Chess, Futurism.
 - Github: [Siphocha](https://github.com/Siphocha)
 
 
